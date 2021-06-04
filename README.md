@@ -3,7 +3,7 @@
 ## Introduction
 
 <p align = "center">
-  <img src = "https://raw.githubusercontent.com/hafiz-kamilin/raspbian_4.14_lite_dronekit/master/00_readme_img/1.png" width = "878" height = "320"/>
+  <img src = "https://raw.githubusercontent.com/hafiz-kamilin/research_raspbianLiteDronekit/master/00_readme_img/1.png" width = "878" height = "320"/>
 </p>
 
 A custom made Raspbian Lite (kernel version 4.14) pre-configured with DroneKit-Python API development environment. Do note that at the current time of making, DroneKit-Python API only supported on Python 2. Thus, this custom Raspbian Lite release will be rendered obsolete and porting the user code from Python 2 to Python 3 would be necessary when Python 2 reach it end of life (EOL).
